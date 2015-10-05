@@ -8,3 +8,9 @@ OK, Terrific
 Well here you go...now we have a new branch.
 
 THIS IS A FIX!!
+
+This shit right here is to fix issue #4
+Damn right it is
+
+
+Yep...this is a hotfix
