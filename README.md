@@ -8,3 +8,5 @@ OK, Terrific
 Well here you go...now we have a new branch.
 
 THIS IS A FIX!!
+
+NOW I'm gonna try to fix #4
