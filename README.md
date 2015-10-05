@@ -5,19 +5,4 @@ Hey look, it's an edit to this file.
 
 OK, Terrific
 
-Well here you go...now we have a new branch.
-
-THIS IS A FIX!!
-
-This shit right here is to fix issue #4
-Damn right it is
-
-
-Yep...this is a hotfix
-
-Would you please fix fucking issue #4
-
-Fixing #4 again...
-
-one last time for number 4
-Just kidding...THIS is the thing that will close Bababooey issue #4
+Just deleted a bunch of code...yeah you heard me
